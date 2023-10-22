@@ -1,7 +1,10 @@
 # Projeto: React com TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi feito utilizando React e TypeScript para a construção desta aplicação. 
 
-## Available Scripts
 
-In the project directory, you can run:
+## Funcionalidade
+
+Ele é um app de gerenciamento de tarefas, possibilitando o cadastramento de tarefas e suas respectivas deficuldades.
+
+Link de acesso: https://to-do-typescript-self.vercel.app/
