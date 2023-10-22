@@ -5,6 +5,6 @@ Este projeto foi feito utilizando React e TypeScript para a construção desta a
 
 ## Funcionalidade
 
-Ele é um app de gerenciamento de tarefas, possibilitando o cadastramento de tarefas e suas respectivas deficuldades.
+App de gerenciamento de tarefas, possibilitando o cadastramento de tarefas e suas respectivas deficuldades.
 
 Link de acesso: https://to-do-typescript-self.vercel.app/
